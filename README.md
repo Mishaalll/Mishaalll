@@ -1,7 +1,7 @@
 ## Hi there 👋
 # i just love hot mamas
 ---
-i love juris ormanis
+i love Juris Ormanis
 ---
 i hate programing
 ---
