@@ -11,7 +11,7 @@ i am from bombaklat
 ---
 my stack
 ```
-c, vindavs, goto programing lanqueqe
+c, vindavs, goto programing lanqueqe, flowcharts
 ```
 ---
 i like indian mans
