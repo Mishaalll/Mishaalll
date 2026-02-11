@@ -1,13 +1,17 @@
 ## Hi there 👋
-#i just love hot mamas
+# i just love hot mamas
 ---
 i love juris ormanis
+---
 i hate programing
+---
 i like goto in c languages
+---
 i am from bombaklat
+---
 my stack
 ```
 c, vindavs, goto programing lanqueqe
 ```
-
-i like indian mens
+---
+i like indian mans
