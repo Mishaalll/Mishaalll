@@ -1,7 +1,7 @@
 ## Hi there 👋
 # i just love hot mamas
 ---
-i love Juris Ormanis
+i love ~~Juris Ormanis~~ Artūrs Kristapsons
 ---
 i hate programing
 ---
